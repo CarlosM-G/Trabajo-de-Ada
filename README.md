@@ -15,6 +15,7 @@ Aun falta meter tanto el documento de diseño como el bug_log:
 
   Documento de diseño (6–8 páginas, sin contar portada)
     El documento debe abordar:
+    
     1. Arquitectura y diagrama de diseño. Incluir al menos un diagrama que muestre los com-
     ponentes del sistema (tareas, objetos protegidos), sus relaciones y los mecanismos de co-
     municación empleados entre ellos (rendezvous, llamadas a entries, etc.).
