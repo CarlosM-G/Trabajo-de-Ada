@@ -50,3 +50,19 @@ Aun falta meter tanto el documento de diseño como el bug_log:
     Causa raíz: Adquisicion circular.
     Descubrimiento:8 trenes, 2 plataformas. 
     Corrección: Orden fijo: tramo primero.
+
+  Requisitos de entrega.
+    Cada estudiante deberá subir un único archivo comprimido con el formato de nombre
+    apellido_nombre.tar.gz (ejemplo: perez_luis.tar.gz). Si el trabajo se realiza por parejas,
+    cada integrante ha de realizar la entrega. Al descomprimir el fichero, se deberá obtener la si-
+    guiente estructura:
+  
+    apellido_nombre /
+    src /
+    main . adb
+    *. ads / *. adb
+    Makefile
+    documento_diseno . pdf
+    bug_log . pdf
+    README . txt % nombres de los autores , compilacion y
+    ejecucion
